@@ -4,11 +4,17 @@
  *They serve to document the code, explain its operation or leave notes for other developers.   */
 
 
+/*
+ * 1. Single-line comments with "//": These comments are used for brief clarifications.  
+ * 2. Multi-line comments with "/* * /": These are used to explain longer blocks of code or provide additional details.
+*/
+
+
 // This is a one line comment
 
 /* this is a longer,
  * multi-line comment
- */
+*/
 
 
 
