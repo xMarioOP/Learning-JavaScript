@@ -1,5 +1,5 @@
 /*
-Sure! A JavaScript for loop is a control flow statement that allows you to repeatedly execute a block of 4
+A JavaScript for loop is a control flow statement that allows you to repeatedly execute a block of 4
 code a specified number of times. Here's the basic syntax of a for loop:
 */
 for (initialization; condition; iteration) {
