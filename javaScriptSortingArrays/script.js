@@ -1,4 +1,8 @@
-//JavaScript arrays have a built-in method called sort() that can be used to sort the elements of an array.
+/*JavaScript arrays have a built-in method called sort(), is used to sort the elements of an array in place and returns the sorted array. 
+By default, the sort() method sorts the array elements as strings in lexicographical (alphabetical) order. However, you can provide a 
+custom sorting function to define the sort order based on your requirements.
+*/
+
 
 //Syntax:
 array.sort(compareFunction)
