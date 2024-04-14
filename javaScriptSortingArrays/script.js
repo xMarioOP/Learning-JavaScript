@@ -62,4 +62,4 @@ const copyNumbers = [...numbers]
 copyNumbers.sort((a, b) => a - b)
 
 console.log(copyNumbers) // [2, 5, 7, 10, 25]  
-console.log(numbers) // [5, 10, 2, 25, 7].
+console.log(numbers) // [5, 10, 2, 25, 7]..
