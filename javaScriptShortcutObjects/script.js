@@ -45,4 +45,4 @@ function greet({ firstName, lastName }) {
   }
   
   greet(person); // Output: Hello, John Doe!
-//This is a handy shortcut for extracting values from an object and assigning them to individual variables in a cleaner and more readable way.
+//This is a handy shortcut for extracting values from an object and assigning them to individual variables in a cleaner and more readable way
