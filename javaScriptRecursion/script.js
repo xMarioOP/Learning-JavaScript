@@ -34,5 +34,5 @@ example, the base case is when n is equal to 0.
 depth (stack size), so excessive recursive calls can lead to a stack overflow.
 
 - Recursion Optimization: Some problems can be solved more efficiently using loops instead of recursion. However, in some cases, recursion 
-can make the code clearer and more concise.
+can make the code clearer and more concise
  */
