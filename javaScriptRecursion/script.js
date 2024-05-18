@@ -31,8 +31,7 @@ Some things to note about recursion in JavaScript:
 example, the base case is when n is equal to 0.
 
 - Call Stack Issues: Recursion can consume a lot of memory if there are many nested calls. JavaScript has a limit on the call stack 
-depth (stack size), so excessive recursive calls can lead to a stack overflow.
-.
+depth (stack size), so excessive recursive calls can lead to a stack overflow
 
 - Recursion Optimization: Some problems can be solved more efficiently using loops instead of recursion. However, in some cases, recursion 
 can make the code clearer and more concise.
