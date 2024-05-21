@@ -28,7 +28,7 @@ in the call stack.
 Some things to note about recursion in JavaScript:
 
 - Base Case: It's essential to have a base case in a recursive function to prevent it from infinitely calling itself. In the above 
-example, the base case is when n is equal to 0..
+example, the base case is when n is equal to 0.
 
 - Call Stack Issues: Recursion can consume a lot of memory if there are many nested calls. JavaScript has a limit on the call stack 
 depth (stack size), so excessive recursive calls can lead to a stack overflow.
