@@ -24,7 +24,7 @@ const person = {
 /*
 In this example, person is an object with several properties: name, age, isStudent, address, and sayHello. Each property has 
 a corresponding value. The address property itself is another object containing its own properties (city and country). The sayHello 
-property contains a function...
+property contains a function....
 
 
 
