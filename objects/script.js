@@ -5,26 +5,26 @@ arrays, or primitive data types like strings, numbers, and booleans.
 Example:
 */
 const person = {
-    name: "John",
-    age: 30,
-    isStudent: false,
-    address: {
-      city: "New York",
-      country: "USA"
-    },
-    sayHello: function() {
-      console.log("Hello, my name is " + this.name);
-    }
-  };
-  
-  console.log(person.name); // Outputs: John
-  console.log(person.age); // Outputs: 30
-  console.log(person.address.city); // Outputs: New York
-  person.sayHello(); // Outputs: Hello, my name is John
+  name: "John",
+  age: 30,
+  isStudent: false,
+  address: {
+    city: "New York",
+    country: "USA"
+  },
+  sayHello: function () {  //When a function is used on an object it is called  a method
+    console.log("Hello, my name is " + this.name);
+  }
+};
+
+console.log(person.name); // Outputs: John
+console.log(person.age); // Outputs: 30
+console.log(person.address.city); // Outputs: New York
+person.sayHello(); // Outputs: Hello, my name is John
 /*
 In this example, person is an object with several properties: name, age, isStudent, address, and sayHello. Each property has 
 a corresponding value. The address property itself is another object containing its own properties (city and country). The sayHello 
-property contains a function..
+property contains a function...
 
 
 
