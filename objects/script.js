@@ -36,7 +36,7 @@ person.age = 31; // Modifying an existing property
 console.log(person.age); // Outputs: 31
 
 delete person.isStudent; // Deleting a property
-console.log(person.isStudent); // Outputs: undefined
+console.log(person.isStudent); // Outputs: undefined.
 /*
 JavaScript objects provide a flexible and powerful way to organize and manipulate data in your code. They are commonly used in various 
 scenarios, including representing real-world entities, managing application state, and organizing code into reusable modules.
