@@ -12,6 +12,6 @@ function sumArrayElements(array) {
     });
 }
 
-console.log("Array of numbers: ", sumNumbersArray);
+console.log("Array of numbers: ", sumNumbersArray)
 sumArrayElements(sumNumbersArray)
-console.log("Sum =", total);
+console.log("Sum =", total)
