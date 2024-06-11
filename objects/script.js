@@ -4,6 +4,7 @@ pairs where each key is a unique identifier (usually a string) and each value ca
 arrays, or primitive data types like strings, numbers, and booleans.
 Example:
 */
+
 const person = {
   name: "John",
   age: 30,
@@ -12,7 +13,7 @@ const person = {
     city: "New York",
     country: "USA"
   },
-  sayHello: function () {  //When a function is used on an object it is called  a method
+  sayHello: function () {  //When a function is used on an object it is called  a method.
     console.log("Hello, my name is " + this.name);
   }
 };
