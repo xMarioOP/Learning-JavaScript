@@ -22,3 +22,8 @@ function passingGradeAverage(array) {
     }
 }
 
+const notesOne = [85, 92, 60, 78, 95, 66, 88, 50, 94];
+const notesTwo = [0, 0, 0, 0, 0, 50, 30, 20];
+
+passingGradeAverage(notesOne);
+passingGradeAverage(notesTwo);
