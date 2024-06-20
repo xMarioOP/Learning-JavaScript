@@ -1,4 +1,5 @@
-/*You have an array of numbers, your challenge is to return the numbers of that array multiplied by two.
+/*
+You have an array of numbers, your challenge is to return the numbers of that array multiplied by two.
 
 To solve it you are going to find a function called multiplyElements that receives an input parameter:
 
