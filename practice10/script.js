@@ -5,16 +5,6 @@ To solve it you are going to find a function called multiplyElements that receiv
 
 array: An array of numbers
 Inside the body of the multiplyElements function you must write your solution.
-
-Example 1:
-
-Input: [2, 4, 5, 5, 6, 8]
-Output: [4, 8, 10, 12, 16]
-
-Example 2:
-
-Input: [1, 1, 1, -2, -3]
-Output: [2, 2, -4, -6]
 */
 
 function multiplyElements(array) {
