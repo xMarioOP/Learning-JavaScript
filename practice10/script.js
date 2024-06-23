@@ -3,7 +3,7 @@ You have an array of numbers, your challenge is to return the numbers of that ar
 
 To solve it you are going to find a function called multiplyElements that receives an input parameter:
 
-array: An array of numbers.
+array: An array of numbers
 Inside the body of the multiplyElements function you must write your solution.
 */
 
