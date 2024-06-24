@@ -19,4 +19,4 @@ console.log("After map: ", result1);
 let example2 = [1, 1, 1, -2, -3]
 let result2 = multiplyElements(example2)
 console.log("Before map: ", example2);
-console.log("After map: ", result2);
+console.log("After map: ", result2)
