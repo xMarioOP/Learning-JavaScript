@@ -8,7 +8,7 @@ Inside the body of the multiplyElements function you must write your solution.
 */
 
 function multiplyElements(array) {
-    return array.map(num => num * 2);
+    return array.map(num => num * 2)
 }
 
 let example1 = [2, 4, 5, 5, 6, 8]
