@@ -4,11 +4,15 @@ traditional function expressions.
 */
 // Traditional function expression
 function add(a, b) {
-    return a + b;
-  }
-  
-  // Arrow function
-  const add = (a, b) => a + b;
+  return a + b;
+}
+
+// Arrow function
+const add = (a,b) => {
+  return a + b
+} 
+// Arrow funcition with implicit return
+const add2 = (a, b) => a + b;
 /*
 Instead of the function keyword, we use an arrow => to define the function. We can also omit the parentheses around the parameters 
 if we only have one
