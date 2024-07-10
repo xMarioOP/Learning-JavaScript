@@ -27,7 +27,7 @@ console.log("Original array: ", orders);
 console.log("Total array o: ", total);
 
 
-//THIS MUTATES THE ORIGINAL ARRAY
+//THIS MUTATES THE ORIGINAL ARRAY NOT RECOMENDED
 // const taxes = orders.map(item => {
 //     item.tax = 0.19
 //     return item
