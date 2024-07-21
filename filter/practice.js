@@ -4,7 +4,7 @@ You have an array of strings containing different words, your challenge is to re
 To solve this you will find a function called filterByLength that receives an input parameter:
 
 array: An array of strigs with words
-Inside the body of the filterByLength function you must write your solution.
+Inside the body of the filterByLength function you must write your solution..
 */
 
 function filterByLength (array) {
